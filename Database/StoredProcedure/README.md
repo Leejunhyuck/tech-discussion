@@ -1,4 +1,4 @@
-## stored procedure
+## stored procedure에 대한 정리
 
 __적절한 상황에서 적절한 기술을 쓰는 것은 찬성이다 하지만 적절한 이유 없이 쓰는 것은 잘못되었다.__
 
